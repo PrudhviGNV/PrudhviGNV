@@ -17,7 +17,8 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-  <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+![prudhvi 3b083ef6](https://user-images.githubusercontent.com/39909903/91145734-c8eb3100-e66a-11ea-879e-2dfa90e3f22b.png)
+
 
 
 **Talking about Education/Skills:**
