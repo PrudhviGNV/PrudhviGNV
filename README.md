@@ -40,7 +40,7 @@ Hi, I'm Syed Shoyab,a passionate engineering graduate specialised in computer sc
 
 :pushpin: Star and Fork this [README](https://github.com/PrudhviGNV/PrudhviGNV) :pencil:
 
-💻 Recent projects in which I have contributed in my [gituhb](https://github.com/PrudhviGNV/)
+💻 Recent projects in which I have contributed in my [github](https://github.com/PrudhviGNV/)
 
 
 <a href="https://github.com/PrudhviGNV/FacialEmotionRecognition-usingCNN">
