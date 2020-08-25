@@ -8,7 +8,7 @@
   <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
- <a href="https://shoyabsyed4m3.github.io/" align="left" > My portfolio : prudhvignv.github.io </a> 
+ <a href="https://prudhvignv.github.io/" align="left" > My portfolio : prudhvignv.github.io </a> 
 <br />
 <br />
 
@@ -17,7 +17,7 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-![prudhvi 3b083ef6](https://user-images.githubusercontent.com/39909903/91145734-c8eb3100-e66a-11ea-879e-2dfa90e3f22b.png)
+
 
 
 
