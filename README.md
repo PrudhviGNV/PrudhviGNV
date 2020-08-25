@@ -48,7 +48,7 @@ Hi, I'm Syed Shoyab,a passionate engineering graduate specialised in computer sc
 </a>
 
 <a href="https://github.com/PrudhviGNV/FaceRecognisationBasedAttendence">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FaceRecognitionBasedAttendence" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FaceRecognisationBasedAttendence" />
 </a>
 
 <a href="https://github.com/PrudhviGNV/pathFinderVisualizer">
