@@ -21,7 +21,7 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 
 
- <img align="right" height="450px" width= "450px" alt="GIF" src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/computer working.gif" />
+ <img align="right" height="410px" width= "410px" alt="GIF" src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/computer working.gif" />
 
 **Talking about Education/Skills:**
 
