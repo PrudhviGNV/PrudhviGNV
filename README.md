@@ -1,7 +1,7 @@
 <h1>Hey, I am <a href="https://prudhvignv.github.io/">Prudhvi </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-<a href="https://www.linkedin.com/in/prudhvignv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/linkedin.png" width="40" /> </a>  <a href="https://github.com/PrudhviGNV"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/github-logo.png" width="40" /> </a>  <a href="https://www.facebook.com/prudhvi.gnv/"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/facebook.png" width="40" /> </a>  <a href="mailto:prudhvi.gnv@gmail.com"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/google-plus.png" width="40" /> </a>  <a href="https://www.kaggle.com/prudhvignv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/kaggle.jpg" width="32" /> </a> <a href="https://www.youracclaim.com/users/naga-venkata-prudhvi-garapati/badges?sort=-state_updated_at&page=1"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/circle-cropped.png" width="35" /> </a>  <a href="https://medium.com/@prudhvi.gnv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/hackerank.jpg" width="40" /> </a>
+<a href="https://www.linkedin.com/in/prudhvignv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/linkedin.png" width="40" /> </a>  <a href="https://github.com/PrudhviGNV"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/github-logo.png" width="40" /> </a>  <a href="https://www.facebook.com/prudhvi.gnv/"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/facebook.png" width="40" /> </a>  <a href="mailto:prudhvi.gnv@gmail.com"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/google-plus.png" width="40" /> </a>  <a href="https://www.kaggle.com/prudhvignv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/kaggle.jpg" width="32" /> </a> <a href="https://www.youracclaim.com/users/naga-venkata-prudhvi-garapati/badges?sort=-state_updated_at&page=1"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/circle-cropped.png" width="35" /> </a>  <a href="https://www.hackerrank.com/prudhvi_gnv?hr_r=1"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/hackerank.jpg" width="42" /> </a>
  <a href="https://medium.com/@prudhvi.gnv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/medium.png" width="40" /> </a> <a
  href="https://www.instagram.com/prudhvi_gnv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/instagram.png" width="40" /> </a><a href="https://prudhvignv.github.io"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/home.png" width="40" /></a>
  
@@ -21,7 +21,7 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/computer working.gif" />
+ <img align="right" height="450px" width= "450px" alt="GIF" src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/computer working.gif" />
 
 **Talking about Education/Skills:**
 
